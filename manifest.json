@@ -1,6 +1,6 @@
 {
-  "short_name": "Set Hacks Site",
-  "name": "Set Hacks Site",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
