@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.1cd4e523.chunk.js",
-    "main.js.map": "/static/js/main.1cd4e523.chunk.js.map",
+    "main.js": "/static/js/main.cd820234.chunk.js",
+    "main.js.map": "/static/js/main.cd820234.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bdf88328.js",
     "runtime-main.js.map": "/static/js/runtime-main.bdf88328.js.map",
     "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.accbda01.chunk.js": "/static/js/2.accbda01.chunk.js",
-    "static/js/2.accbda01.chunk.js.map": "/static/js/2.accbda01.chunk.js.map",
+    "static/js/2.51e0b804.chunk.js": "/static/js/2.51e0b804.chunk.js",
+    "static/js/2.51e0b804.chunk.js.map": "/static/js/2.51e0b804.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/js/2.accbda01.chunk.js.LICENSE.txt": "/static/js/2.accbda01.chunk.js.LICENSE.txt",
-    "static/media/SET.Hacks()_Sponsorship_Package.f6a61395.pdf": "/static/media/SET.Hacks()_Sponsorship_Package.f6a61395.pdf",
+    "static/js/2.51e0b804.chunk.js.LICENSE.txt": "/static/js/2.51e0b804.chunk.js.LICENSE.txt",
+    "static/media/SET.Hacks()_Sponsorship_Package.78c85101.pdf": "/static/media/SET.Hacks()_Sponsorship_Package.78c85101.pdf",
     "static/media/graphic1.b4dbe120.png": "/static/media/graphic1.b4dbe120.png",
     "static/media/graphic2.6c105fb7.png": "/static/media/graphic2.6c105fb7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bdf88328.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.accbda01.chunk.js",
-    "static/js/main.1cd4e523.chunk.js"
+    "static/js/2.51e0b804.chunk.js",
+    "static/js/main.cd820234.chunk.js"
   ]
 }
